@@ -7,10 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		D90CA9A020BE6EDC00E5E61C /* shim.h in Headers */ = {isa = PBXBuildFile; fileRef = D90CA99F20BE6EDC00E5E61C /* shim.h */; };
-		D90CA9A120BE6EDC00E5E61C /* shim.h in Headers */ = {isa = PBXBuildFile; fileRef = D90CA99F20BE6EDC00E5E61C /* shim.h */; };
-		D90CA9A220BE6EDC00E5E61C /* shim.h in Headers */ = {isa = PBXBuildFile; fileRef = D90CA99F20BE6EDC00E5E61C /* shim.h */; };
-		D90CA9A320BE6EDC00E5E61C /* shim.h in Headers */ = {isa = PBXBuildFile; fileRef = D90CA99F20BE6EDC00E5E61C /* shim.h */; };
+		D90CA9A020BE6EDC00E5E61C /* shim.h in Headers */ = {isa = PBXBuildFile; fileRef = D90CA99F20BE6EDC00E5E61C /* shim.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D90CA9A120BE6EDC00E5E61C /* shim.h in Headers */ = {isa = PBXBuildFile; fileRef = D90CA99F20BE6EDC00E5E61C /* shim.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D90CA9A220BE6EDC00E5E61C /* shim.h in Headers */ = {isa = PBXBuildFile; fileRef = D90CA99F20BE6EDC00E5E61C /* shim.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D90CA9A320BE6EDC00E5E61C /* shim.h in Headers */ = {isa = PBXBuildFile; fileRef = D90CA99F20BE6EDC00E5E61C /* shim.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
